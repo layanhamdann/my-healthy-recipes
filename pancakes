@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chocolate Chip Cookies</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Chocolate Chip Cookies</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="recipe2.html">Next Recipe</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="recipe">
+        <h2>Ingredients:</h2>
+        <ul>
+            <li>1 cup butter</li>
+            <li>1 cup white sugar</li>
+            <li>2 cups all-purpose flour</li>
+            <li>1 tsp vanilla extract</li>
+            <li>1 1/2 cups chocolate chips</li>
+        </ul>
+
+        <h2>Instructions:</h2>
+        <ol>
+            <li>Preheat oven to 350°F (175°C).</li>
+            <li>Mix butter and sugar until creamy.</li>
+            <li>Add flour and vanilla extract. Stir until smooth.</li>
+            <li>Fold in chocolate chips.</li>
+            <li>Form dough into small balls and place on a baking sheet.</li>
+            <li>Bake for 10-12 minutes until golden brown.</li>
+            <li>Let cool, then enjoy your cookies!</li>
+        </ol>
+    </section>
+
+    <footer>
+        <p>Recipe provided by [Your Name]</p>
+    </footer>
+</body>
+</html>
